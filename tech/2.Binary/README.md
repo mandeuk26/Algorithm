@@ -30,5 +30,3 @@ func lowerbound(start: Int, end: Int, key: Int) -> Int {
 ```
 ## 2. Upper bound
 Lower bound와 동작은 비슷하지만 key값보다 큰 값을 가진 가장 작은 index를 찾는다는 점에서 차이를 갖는다. Lower bound 2번 과정에서 A[mid]보다 key값이 크거나 같을 경우 start를 mid+1로 이동시키도록 수정만 하면 구현 완료다.  
-
-@@1654 랜선 자르기 문제와 1300 K번째 수 정리@@
