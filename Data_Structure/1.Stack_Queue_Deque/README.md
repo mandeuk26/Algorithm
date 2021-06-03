@@ -65,7 +65,3 @@ struct Deque <T> {
     }
 }
 ```
-
-@ Stack 17298 6549 정리
-@ queue 11866
-@ deque 5430

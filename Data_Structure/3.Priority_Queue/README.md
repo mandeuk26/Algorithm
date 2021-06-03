@@ -150,5 +150,3 @@ struct PriorityQueue <T> {
     }
 }
 ```
-
-@ 11286, 1655 정리

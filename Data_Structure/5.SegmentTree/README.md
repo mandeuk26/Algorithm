@@ -118,4 +118,3 @@ func fenwick_update(tree: inout [Int], idx: Int, val: Int) {
 - segment : 시간복잡도 O(logn) / 공간복잡도 O(4n)  
 
 위의 결과를 보면 fenwick이 메모리도 덜 잡아먹고 구현 자체도 간단하기 때문에 fenwick을 쓰는게 무조건 좋다고 생각할 수 있다. 하지만 fenwick은 구간내 최댓값, 최솟값을 구하기 등 몇몇 문제의 경우 사용할 수가 없다. 즉 다양한 case에 적용하기가 segment보다 어렵다는 것이다. 둘 다 장단점이 있으므로 우리는 상황에 맞는 자료구조를 선택하는 것이 중요하다.  
-@@ 2042 2357 9345 1168 정리

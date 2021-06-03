@@ -7,4 +7,3 @@
 
 <img width="629" alt="binarytree" src="https://user-images.githubusercontent.com/78075226/120458954-ae50a000-c3d2-11eb-830f-425aa4cacfe1.png">
 
-@@ 1167 2263 4803 정리

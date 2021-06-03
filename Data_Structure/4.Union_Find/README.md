@@ -71,4 +71,3 @@ struct DisjointSet {
     }
 }
 ```
-@@ 4195, 20040 정리
