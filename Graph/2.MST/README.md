@@ -64,4 +64,3 @@ while !minHeap.isEmpty {
     }
 }
 ```
-@@ 1774, 2887, 17472 정리

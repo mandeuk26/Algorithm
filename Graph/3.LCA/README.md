@@ -52,4 +52,3 @@ for i in 0...maxK {
 }
 return parent[a][0]
 ```
-@3176, 13511 정리
