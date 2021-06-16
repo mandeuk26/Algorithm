@@ -37,4 +37,3 @@ func maketrie(str: String) {
     check[node] = true
 }
 ```
-@14725 정리
